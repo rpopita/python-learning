@@ -4,3 +4,5 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 *.xlsx
+pandas_50_exercise_dataset_pack/
+pandas_50_exercise_dataset_pack/

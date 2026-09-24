@@ -31,4 +31,5 @@ stack-data==0.6.3
 tornado==6.5.10
 traitlets==5.16.1
 typing_extensions==4.16.0
+Unidecode==1.4.0
 wcwidth==0.8.4
